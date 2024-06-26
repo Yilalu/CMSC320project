@@ -1,3 +1,4 @@
 out.csv
 Traffic_Violations.csv
+out*.csv
 .ipynb_checkpoints
